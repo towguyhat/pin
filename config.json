@@ -2,6 +2,6 @@
   "gold_threshold_usd": 10,
   "silver_threshold_usd": 1,
   "doji_threshold_vnd": 100000,
-  "check_interval_seconds": 300,
+  "check_interval_seconds": 150,
   "kitco_url": "https://www.kitco.com/api/kitco-xml/precious-metals"
 }
