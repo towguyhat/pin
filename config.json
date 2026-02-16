@@ -1,6 +1,6 @@
 {
-  "gold_threshold_usd": 25,
+  "gold_threshold_usd": 10,
   "silver_threshold_usd": 4,
   "doji_threshold_vnd": 100000,
-  "check_interval_seconds": 1800
+  "check_interval_seconds": 300
 }
