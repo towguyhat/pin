@@ -28,7 +28,7 @@
     "weekend_cooldown_multiplier": 20,
     "config_refresh_seconds": 300,
     "plot_bars": 2200,
-    "db_vacuum_interval_seconds": 43200,
+    "db_vacuum_interval_seconds": 86400,
 
     "session_force_move_usd": 30,
     "session_force_once_per_session": true
