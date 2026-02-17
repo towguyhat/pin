@@ -27,7 +27,7 @@
     "off_cooldown_multiplier": 5,
     "weekend_cooldown_multiplier": 20,
     "config_refresh_seconds": 300,
-    "plot_bars": 90,
+    "plot_bars": 2200,
     "db_vacuum_interval_seconds": 21600,
 
     "session_force_move_usd": 30,
