@@ -18,7 +18,7 @@
     "kc_atr_mult": 1.5,
     
     "momentum_bars": 5,
-    "momentum_threshold_pct": 0.00055,
+    "momentum_threshold_pct": 0.00070,
     
     "exit_momentum_threshold_pct": 0.00020,
     "break_buffer_pct": 0.00020,
