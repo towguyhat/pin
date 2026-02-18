@@ -23,9 +23,9 @@
     "state_hold_polls": 2,
 
     "alert_base_cooldown_seconds": 120,
-    "pre_cooldown_multiplier": 2,
-    "off_cooldown_multiplier": 5,
-    "weekend_cooldown_multiplier": 20,
+    "pre_cooldown_multiplier": 5,
+    "off_cooldown_multiplier": 20,
+    "weekend_cooldown_multiplier": 25,
     "config_refresh_seconds": 300,
     "plot_bars": 2200,
     "db_vacuum_interval_seconds": 86400,
