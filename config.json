@@ -3,33 +3,31 @@
   "silver_threshold_usd": 1,
   "doji_threshold_vnd": 100000,
   "check_interval_seconds": 120,
+  "pre_session_multiplier": 5,
+  "off_session_multiplier": 20,
+  "weekend_multiplier": 25,
   "shockradar": {
-    "poll_interval_seconds": 120,
-    "weekend_multiplier": 20,
     "retention_days": 3,
     "lookback_bars": 90,
     "session_min_bars_for_signal": 20,
     "session_warmup_extra_bars": 10,
-
+    
     "bb_period": 20,
     "bb_std": 2.0,
     "kc_period": 20,
     "kc_atr_mult": 1.5,
-
+    
     "momentum_bars": 3,
     "momentum_threshold_pct": 0.00055,
+    
     "exit_momentum_threshold_pct": 0.00030,
     "break_buffer_pct": 0.00020,
     "state_hold_polls": 2,
-
-    "alert_base_cooldown_seconds": 120,
-    "pre_cooldown_multiplier": 5,
-    "off_cooldown_multiplier": 20,
-    "weekend_cooldown_multiplier": 25,
+    
     "config_refresh_seconds": 300,
     "plot_bars": 2200,
     "db_vacuum_interval_seconds": 86400,
-
+    
     "session_force_move_usd": 30,
     "session_force_once_per_session": true
   }
