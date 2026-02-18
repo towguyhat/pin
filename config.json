@@ -10,7 +10,7 @@
     "retention_days": 3,
     "lookback_bars": 90,
     "session_min_bars_for_signal": 20,
-    "session_warmup_extra_bars": 10,
+    "session_warmup_extra_bars": 30,
     
     "bb_period": 20,
     "bb_std": 2.0,
