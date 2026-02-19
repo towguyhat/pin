@@ -1,9 +1,9 @@
 {
-  "gold_threshold_usd": 15,
+  "gold_threshold_usd": 20,
   "silver_threshold_usd": 1,
   "doji_threshold_vnd": 100000,
   "check_interval_seconds": 120,
-  "pre_session_multiplier": 5,
+  "pre_session_multiplier": 3,
   "off_session_multiplier": 20,
   "weekend_multiplier": 25,
   "shockradar": {
@@ -25,7 +25,7 @@
     "state_hold_polls": 5,
     
     "config_refresh_seconds": 300,
-    "plot_bars": 2200,
+    "plot_bars": 2100,
     "db_vacuum_interval_seconds": 86400,
     
     "session_force_move_usd": 30,
