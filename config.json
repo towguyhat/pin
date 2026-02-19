@@ -19,10 +19,10 @@
     "break_buffer_pct": 0.00020,
     
     "momentum_bars": 5,
-    "momentum_threshold_pct": 0.00070,
+    "momentum_threshold_pct": 0.00140,
     
     "exit_momentum_threshold_pct": 0.00020,    
-    "state_hold_polls": 3,
+    "state_hold_polls": 5,
     
     "config_refresh_seconds": 300,
     "plot_bars": 2200,
