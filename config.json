@@ -18,7 +18,7 @@
     "kc_atr_mult": 1.7,
     "break_buffer_pct": 0.00035,
 
-    "up_break_buffer_pct": 0.00120,
+    "up_break_buffer_pct": 0.00010,
     "dn_break_buffer_pct": 0.00300,
 
     "up_momentum_threshold_pct": 0.00100,
