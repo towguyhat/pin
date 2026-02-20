@@ -12,9 +12,9 @@
     "session_min_bars_for_signal": 90,
     "session_warmup_extra_bars": 90,
     
-    "bb_period": 45,
+    "bb_period": 30,
     "bb_std": 2.0,
-    "kc_period": 45,
+    "kc_period": 30,
     "kc_atr_mult": 1.5,
     "break_buffer_pct": 0.00020,
     
