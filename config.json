@@ -4,7 +4,7 @@
   "doji_threshold_vnd": 100000,
   "check_interval_seconds": 62,
   "pre_session_multiplier": 3,
-  "off_session_multiplier": 40,
+  "off_session_multiplier": 5,
   "weekend_multiplier": 120,
   "shockradar": {
     "retention_days": 3,
