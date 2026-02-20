@@ -31,7 +31,7 @@
     "dn_exit_momentum_threshold_pct": 0.00015,
 
     "exit_momentum_threshold_pct": 0.00025,
-    "state_hold_polls": 15,
+    "state_hold_polls": 7,
     
     "config_refresh_seconds": 120,
     "plot_bars": 4000,
