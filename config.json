@@ -4,7 +4,7 @@
   "doji_threshold_vnd": 100000,
   "check_interval_seconds": 62,
   "pre_session_multiplier": 3,
-  "off_session_multiplier": 10,
+  "off_session_multiplier": 45,
   "weekend_multiplier": 120,
   "shockradar": {
     "retention_days": 3,
@@ -18,10 +18,10 @@
     "kc_atr_mult": 1.7,
     "break_buffer_pct": 0.00035,
 
-    "up_break_buffer_pct": 0.00010,
+    "up_break_buffer_pct": 0.00120,
     "dn_break_buffer_pct": 0.00300,
 
-    "up_momentum_threshold_pct": 0.0005,
+    "up_momentum_threshold_pct": 0.00100,
     "dn_momentum_threshold_pct": 0.00220,
     
     "momentum_bars": 10,
