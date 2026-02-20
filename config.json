@@ -13,16 +13,16 @@
     "session_warmup_extra_bars": 90,
     
     "bb_period": 30,
-    "bb_std": 2.0,
+    "bb_std": 2.2,
     "kc_period": 30,
-    "kc_atr_mult": 1.5,
-    "break_buffer_pct": 0.00020,
+    "kc_atr_mult": 1.7,
+    "break_buffer_pct": 0.00035,
     
-    "momentum_bars": 10,
-    "momentum_threshold_pct": 0.00140,
+    "momentum_bars": 12,
+    "momentum_threshold_pct": 0.00120,
     
-    "exit_momentum_threshold_pct": 0.00017,    
-    "state_hold_polls": 10,
+    "exit_momentum_threshold_pct": 0.00025,    
+    "state_hold_polls": 15,
     
     "config_refresh_seconds": 120,
     "plot_bars": 4000,
