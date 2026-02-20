@@ -17,11 +17,20 @@
     "kc_period": 30,
     "kc_atr_mult": 1.7,
     "break_buffer_pct": 0.00035,
+
+    "up_break_buffer_pct": 0.00030,
+    "dn_break_buffer_pct": 0.00065,
+
+    "up_momentum_threshold_pct": 0.00110,
+    "dn_momentum_threshold_pct": 0.00160,
     
     "momentum_bars": 12,
     "momentum_threshold_pct": 0.00120,
     
-    "exit_momentum_threshold_pct": 0.00025,    
+    "up_exit_momentum_threshold_pct": 0.00040,    
+    "dn_exit_momentum_threshold_pct": 0.00015,
+
+    "exit_momentum_threshold_pct": 0.00025,
     "state_hold_polls": 15,
     
     "config_refresh_seconds": 120,
