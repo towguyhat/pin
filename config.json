@@ -13,7 +13,7 @@
     "session_warmup_extra_bars": 40,
     
     "bb_period": 30,
-    "bb_std": 2.2,
+    "bb_std": 1.8,
     "kc_period": 30,
     "kc_atr_mult": 1.7,
     "break_buffer_pct": 0.00035,
