@@ -15,10 +15,10 @@
     "bb_period": 45,
     "bb_std": 2.0,
     "kc_period": 45,
-    "kc_atr_mult": 1.8,
+    "kc_atr_mult": 1.7,
     "break_buffer_pct": 0.00020,
     
-    "momentum_bars": 5,
+    "momentum_bars": 7,
     "momentum_threshold_pct": 0.00140,
     
     "exit_momentum_threshold_pct": 0.00017,    
