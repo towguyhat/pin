@@ -24,7 +24,7 @@
     "up_momentum_threshold_pct": 0.00100,
     "dn_momentum_threshold_pct": 0.00220,
     
-    "momentum_bars": 10,
+    "momentum_bars": 7,
     "momentum_threshold_pct": 0.00120,
     
     "up_exit_momentum_threshold_pct": 0.00040,    
