@@ -19,10 +19,10 @@
     "break_buffer_pct": 0.00035,
 
     "up_break_buffer_pct": 0.00010,
-    "dn_break_buffer_pct": 0.00050,
+    "dn_break_buffer_pct": 0.00080,
 
     "up_momentum_threshold_pct": 0.00022,
-    "dn_momentum_threshold_pct": 0.00133,
+    "dn_momentum_threshold_pct": 0.00153,
     
     "momentum_bars": 12,
     "momentum_threshold_pct": 0.00120,
@@ -31,7 +31,7 @@
     "dn_exit_momentum_threshold_pct": 0.00015,
 
     "exit_momentum_threshold_pct": 0.00025,
-    "state_hold_polls": 15,
+    "state_hold_polls": 10,
     
     "config_refresh_seconds": 120,
     "plot_bars": 4000,
