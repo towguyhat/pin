@@ -19,7 +19,7 @@
     "break_buffer_pct": 0.00035,
 
     "up_break_buffer_pct": 0.00010,
-    "dn_break_buffer_pct": 0.00260,
+    "dn_break_buffer_pct": 0.00300,
 
     "up_momentum_threshold_pct": 0.00022,
     "dn_momentum_threshold_pct": 0.00220,
