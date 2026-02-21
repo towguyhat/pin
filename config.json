@@ -8,7 +8,7 @@
   "weekend_multiplier": 120,
   "shockradar": {
     "retention_days": 3,
-    "lookback_bars": 120,
+    "lookback_bars": 200,
     "session_min_bars_for_signal": 35,
     "session_warmup_extra_bars": 35,
     
