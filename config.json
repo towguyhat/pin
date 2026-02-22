@@ -23,12 +23,17 @@
 
     "up_momentum_threshold_pct": 0.00100,
     "dn_momentum_threshold_pct": 0.00220,
+
+    "atr_active_threshold": 1.15,
+    "atr_dead_threshold": 1.85,
+    "bbw_squeeze_th": 0.015,
     
     "momentum_bars": 8,
     "momentum_threshold_pct": 0.00120,
     
     "up_exit_momentum_threshold_pct": 0.00040,    
     "dn_exit_momentum_threshold_pct": 0.00015,
+    "flip_exit_momentum_multiplier": 0.3, 
 
     "exit_momentum_threshold_pct": 0.00025,
     "state_hold_polls": 7,
