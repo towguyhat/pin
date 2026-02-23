@@ -15,7 +15,7 @@
     "bb_period": 25,
     "bb_std": 1.7,
     "kc_period": 25,
-    "kc_atr_mult": 1.7,
+    "kc_atr_mult": 2.0,
     "break_buffer_pct": 0.00035,
 
     "up_break_buffer_pct": 0.00010,
@@ -24,9 +24,9 @@
     "up_momentum_threshold_pct": 0.00100,
     "dn_momentum_threshold_pct": 0.00220,
 
-    "atr_active_threshold": 0.85,
-    "atr_dead_threshold": 0.65,
-    "bbw_squeeze_th": 0.00115,
+    "atr_active_threshold": 1.05,
+    "atr_dead_threshold": 1.01,
+    "bbw_squeeze_th": 0.007,
     
     "momentum_bars": 8,
     "momentum_threshold_pct": 0.00120,
