@@ -39,7 +39,7 @@
     "state_hold_polls": 7,
     
     "config_refresh_seconds": 120,
-    "plot_bars": 2000,
+    "plot_bars": 4000,
     "db_vacuum_interval_seconds": 86400,
     
     "session_force_move_usd": 30,
