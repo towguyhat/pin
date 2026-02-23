@@ -25,7 +25,7 @@
     "dn_momentum_threshold_pct": 0.00220,
 
     "atr_active_threshold": 1.15,
-    "atr_dead_threshold": 1.85,
+    "atr_dead_threshold": 0.65,
     "bbw_squeeze_th": 0.015,
     
     "momentum_bars": 8,
