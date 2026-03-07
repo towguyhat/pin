@@ -1,0 +1,22 @@
+🎊 CHÍNH THỨC RELEASE: EGOLD DOJI AUTO v26-AI 🎊
+🔥 SAU BAO NGÀY CHỜ ĐỢI - HÀNG THẬT VIỆC THẬT ĐÃ LÊN SÓNG🔥
+
+👉 Kênh bot auto giá vàng Doji duy nhất Việtnam:
+👉 Chỉ báo khi giá vàng Doji thay đổi, bám sát từng phút.
+👉 Đồ thị 72h gần nhất.
+👉 Cảnh báo sớm 15ph-30ph truóc khi Doji thay đổi giá.
+👉 Cảnh báo khi giá vàng thế giới biến động mạnh, sớm 15ph-30ph khi Doji chỉnh giá.
+
+Sau mấy hôm anh em xem Video Demo phát thèm, hôm nay tôi chính thức thả xích bản Release APK cực phẩm. 
+Reverse API Doji eGold đỉnh cao, tối ưu luồng đặt lệnh, bypass mọi rào cản.
+🛠 Tính năng "Khủng" của eGold Doji Tun:
+✅ API Doji Đa Năng: Tự động hóa mua bán cả VÀNG & BẠC (SJC, Doji Âu Vàng, Bạc miếng...). 
+Chốt đơn nhanh hơn cả người yêu cũ trở mặt.
+✅ Phí Mua Hộ Siêu Rẻ: Chỉ 100k/chỉ (vàng) hoăc 1 lương (bạc) 
+Tiết kiệm thời gian, tối ưu lợi nhuận tối đa cho anh em gom hàng.
+✅ Cấu hình JSON linh hoạt: Nhập UserID/Pass eGold, tùy chỉnh loại Vàng/Bạc, số lượng qua config cực nhanh.
+
+📥 LINK TẢI APK (SourceForge): https://sourceforge.net/projects/auto-mua-vang-doji/
+👉 Download eGold-universal-release.apk
+⚠️ CẢNH BÁO: Nhập đúng tài khoản Doji cung cấp. Sai quá 05 lần là khóa acc tự động, tôi đéo chịu trách nhiệm đâu nhé!
+https://www.youtube.com/shorts/SURfiQsOWp8
