@@ -32,7 +32,7 @@
     "bbw_squeeze_th": 0.005,
     
     "up_exit_momentum_threshold_pct": 0.00040,    
-    "dn_exit_momentum_threshold_pct": 0.00015,
+    "dn_exit_momentum_threshold_pct": 0.00040,
     "flip_exit_momentum_multiplier": 0.3, 
 
     "exit_momentum_threshold_pct": 0.00025,
