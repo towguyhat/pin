@@ -22,10 +22,10 @@
     "adjusted_tr_mult": 1.2,
 
     "up_break_buffer_pct": 0.00010,
-    "dn_break_buffer_pct": 0.00300,
+    "dn_break_buffer_pct": 0.00010,
 
     "up_momentum_threshold_pct": 0.00100,
-    "dn_momentum_threshold_pct": 0.00220,
+    "dn_momentum_threshold_pct": 0.00100,
 
     "atr_active_threshold": 0.99,
     "atr_dead_threshold": 0.85,
