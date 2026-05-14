@@ -21,8 +21,8 @@
     "momentum_threshold_pct": 0.00220,
     "adjusted_tr_mult": 1.2,
 
-    "up_break_buffer_pct": 0.00070,
-    "dn_break_buffer_pct": 0.00070,
+    "up_break_buffer_pct": 0.00170,
+    "dn_break_buffer_pct": 0.00170,
 
     "up_momentum_threshold_pct": 0.00200,
     "dn_momentum_threshold_pct": 0.00200,
