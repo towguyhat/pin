@@ -2,7 +2,7 @@
   "gold_threshold_usd": 20,
   "silver_threshold_usd": 1,
   "doji_threshold_vnd": 100000,
-  "check_interval_seconds": 182,
+  "check_interval_seconds": 302,
   "pre_session_multiplier": 3,
   "off_session_multiplier": 45,
   "weekend_multiplier": 120,
